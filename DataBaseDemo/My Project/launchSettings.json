@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "DataBaseDemo": {
+      "commandName": "Project",
+      "sqlDebugging": false,
+      "nativeDebugging": true
+    }
+  }
+}
